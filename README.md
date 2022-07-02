@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Manali0806
+- 👀 I’m interested in competitive programming
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 📫 How to reach me manalikundu824@gmail.com
